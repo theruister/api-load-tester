@@ -37,19 +37,20 @@ load testing http://localhost:8083/api/v1/users - 40 req/s target, 10 workers, f
 
 Results
 -------
-Total requests:   800
-Successful:       799
-Errors:           1
-Duration:         20.001s
-Throughput:       40.0 req/s
+Total requests:   800 \
+Successful:       799 \
+Errors:           1 \
+Duration:         20.001s \
+Throughput:       40.0 req/s 
 
-Latency
-  min: 849.643µs
-  avg: 2.703724ms
-  p50: 2.807727ms
-  p95: 3.317527ms
-  p99: 3.567663ms
+Latency \
+  min: 849.643µs \
+  avg: 2.703724ms \
+  p50: 2.807727ms \
+  p95: 3.317527ms \
+  p99: 3.567663ms \
   max: 6.363071ms
+
 
 # Notes
 
@@ -57,6 +58,6 @@ While writing unit tests for pool.go multiple real bugs were found in the initia
 1. No validation was done on the input parameters. This allowed for problems like 0 rate or 0 workers causing the load
    tester to fail. 
 2. Invalid HTTP methods were allowed as parameters causing 100% failure rate. This wastes user time and resources and
-   validating the method at the beginning allows for long test runs to be avoided if set up will fail. 
+   validating the method at the beginning allows for long test runs to be avoided if set up will fail. \
    2.a. This is now allowing for users to be case insensitive for method - All http requests are being with upper case
    methods to allow users less frustration. -method=get will work the same as -method=GET
