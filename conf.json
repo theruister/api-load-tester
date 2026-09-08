@@ -1,0 +1,9 @@
+{
+        "url": "http://localhost:8083/api/v1/users",
+        "method": "GET",
+        "body":"",
+        "rate": 40,
+        "workers": 9,
+        "duration": 20,
+        "timeout": 5
+}

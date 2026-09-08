@@ -10,12 +10,25 @@ Either run with go run ./cmd/loadtest or with go build ./cmd/loadtest/laod.go an
 |-----------|-----|---------|-------------|
 | url | string | "" | target URL (required)|
 | method | string | GET | HTTP method (GET/POST/etc) | 
+| body | string | "" | HTTP request body |
 | rate | int | 50 | target requests per second | 
 | workers | int | 10 | number of concurrent workers | 
 | duration | int | 10 | how long to run the test in seconds |
 | timeout | int | 5 | per-request timeout in seconds | 
+| file | string | "" | config file to load (JSON format - example provided in config.json) |
 
 # Design considerations 
+
+## Parameter usage
+
+Parameters are loaded in 3 stages allowing for ease of use
+1. Default values are loaded 
+2. If file is present update with any values defined in the config file
+3. Override any previously set values with CLI parameters specifically set by the user
+
+This 3 stage approach allows users to define tests in config files while also allowing some flexibility to override if a
+one off test is desired. This flexibility allows users to make small changes to a test without having to fully edit
+their json files. 
 
 ## Coordinated Omission 
 
@@ -32,14 +45,14 @@ after it is allowed a connection.
 
 # Example 
 
-./load -url=http://localhost:8083/api/v1/users -rate=40 -duration=20 -method=GET
+./load -file=conf.json
 load testing http://localhost:8083/api/v1/users - 40 req/s target, 10 workers, for 20s
 
 Results
 -------
 Total requests:   800 \
-Successful:       799 \
-Errors:           1 \
+Successful:       800 \
+Errors:           0 \
 Duration:         20.001s \
 Throughput:       40.0 req/s 
 
