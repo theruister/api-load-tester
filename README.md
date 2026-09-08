@@ -7,6 +7,7 @@ Either run with go run ./cmd/loadtest or with go build ./cmd/loadtest/laod.go an
 # Parameters
 
 | parameter |type | default | description |
+|-----------|-----|---------|-------------|
 | url | string | "" | target URL (required)|
 | method | string | GET | HTTP method (GET/POST/etc) | 
 | rate | int | 50 | target requests per second | 
