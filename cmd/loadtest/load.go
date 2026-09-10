@@ -5,13 +5,15 @@ import (
 	"flag"
 	"fmt"
 	"load-tester/internal/config"
-	"load-tester/internal/report"
 	"load-tester/internal/stats"
+	"load-tester/internal/view"
 	"load-tester/internal/worker"
 	"os"
 	"os/signal"
 	"strings"
 	"time"
+
+	tea "charm.land/bubbletea/v2"
 )
 
 func main() {
@@ -81,8 +83,6 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Printf("load testing %s - %d req/s target, %d workers, for %s\n", cfg.URL, cfg.Rate, cfg.Concurrency, cfg.Duration)
-
 	ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt)
 	defer stop()
 
@@ -90,11 +90,14 @@ func main() {
 	pool := worker.New(cfg, recorder)
 
 	start := time.Now()
-	if err := pool.Run(ctx); err != nil {
-		fmt.Fprintf(os.Stderr, "error: %v\n", err)
-	}
-	elapsed := time.Since(start)
+	go func() {
+		if err := pool.Run(ctx); err != nil {
+			fmt.Fprintf(os.Stderr, "error: %v\n", err)
+		}
+	}()
 
-	summary := recorder.Snapshot(elapsed)
-	report.Print(os.Stdout, summary)
+	p := tea.NewProgram(view.InitialModel(recorder, start, cfg.Duration))
+	if _, err := p.Run(); err != nil {
+		fmt.Fprintf(os.Stderr, "err: %v\n", err)
+	}
 }

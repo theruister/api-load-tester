@@ -46,7 +46,7 @@ type Summary struct {
 // Snapshot computes a Summary from everything we have recorded so far.
 // wallDuration is the actual elapsed time of the test run, used for throughput. It's passed in rather than inferred so
 // callers can compute live, in-prograss summaries too.
-func (r *Recorder) Snapshot(wallDuration time.Duration) Summary {
+func (r *Recorder) Snapshot(wallDuration time.Duration, duration time.Duration) Summary {
 	r.mu.Lock()
 	// Copy under the lock, then release it before the expensive sort/aggregation work
 
@@ -54,7 +54,7 @@ func (r *Recorder) Snapshot(wallDuration time.Duration) Summary {
 	copy(results, r.results)
 	r.mu.Unlock()
 
-	s := Summary{Total: len(results), Duration: wallDuration}
+	s := Summary{Total: len(results)}
 	if len(results) == 0 {
 		return s
 	}
@@ -81,7 +81,13 @@ func (r *Recorder) Snapshot(wallDuration time.Duration) Summary {
 	s.P99Latency = percentile(latencies, 0.99)
 
 	if wallDuration > 0 {
-		s.Throughput = float64(s.Total) / wallDuration.Seconds()
+		if wallDuration < duration {
+			s.Duration = wallDuration
+			s.Throughput = float64(s.Total) / wallDuration.Seconds()
+		} else {
+			s.Duration = duration
+			s.Throughput = float64(s.Total) / duration.Seconds()
+		}
 	}
 	return s
 }
