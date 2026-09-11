@@ -19,6 +19,7 @@ type Config struct {
 	Concurrency int
 	Duration    time.Duration
 	Timeout     time.Duration
+	OutFile     string
 }
 
 type Pool struct {

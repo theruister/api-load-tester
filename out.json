@@ -1,0 +1,4796 @@
+[
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.453590715-04:00",
+    "Latency": 8776538,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.478589519-04:00",
+    "Latency": 1824064,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.503594979-04:00",
+    "Latency": 1965679,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.528590767-04:00",
+    "Latency": 3162299,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.553599214-04:00",
+    "Latency": 3326019,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.578590368-04:00",
+    "Latency": 2312642,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.60359092-04:00",
+    "Latency": 3313270,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.62859024-04:00",
+    "Latency": 3359333,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.653600105-04:00",
+    "Latency": 3319572,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.678591438-04:00",
+    "Latency": 2314124,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.703598262-04:00",
+    "Latency": 3026593,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.728590933-04:00",
+    "Latency": 2927506,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.753598272-04:00",
+    "Latency": 2958535,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.778591471-04:00",
+    "Latency": 3324574,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.803590892-04:00",
+    "Latency": 3295519,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.828590825-04:00",
+    "Latency": 3194010,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.853591269-04:00",
+    "Latency": 3177784,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.878597484-04:00",
+    "Latency": 2839655,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.903590138-04:00",
+    "Latency": 2687133,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.928588488-04:00",
+    "Latency": 1963661,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.953589637-04:00",
+    "Latency": 2002907,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:01.978599072-04:00",
+    "Latency": 2741451,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.003591457-04:00",
+    "Latency": 2357453,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.028590816-04:00",
+    "Latency": 3286812,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.053598332-04:00",
+    "Latency": 2910518,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.078591384-04:00",
+    "Latency": 3282358,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.103591528-04:00",
+    "Latency": 3171223,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.128590776-04:00",
+    "Latency": 3250617,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.153591363-04:00",
+    "Latency": 2949507,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.17859095-04:00",
+    "Latency": 3104277,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.203591584-04:00",
+    "Latency": 3748316,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.228591488-04:00",
+    "Latency": 2577493,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.253591393-04:00",
+    "Latency": 2694290,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.278600914-04:00",
+    "Latency": 2660733,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.303598548-04:00",
+    "Latency": 2584036,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.328591071-04:00",
+    "Latency": 2547416,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.353589933-04:00",
+    "Latency": 2390481,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.378600971-04:00",
+    "Latency": 2273652,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.403599398-04:00",
+    "Latency": 3151118,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.428591757-04:00",
+    "Latency": 3093507,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.453590695-04:00",
+    "Latency": 3236239,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.478590594-04:00",
+    "Latency": 3069663,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.503591236-04:00",
+    "Latency": 3868715,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.528590905-04:00",
+    "Latency": 3491317,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.553602386-04:00",
+    "Latency": 3353034,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.578590867-04:00",
+    "Latency": 2891578,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.603590188-04:00",
+    "Latency": 2746854,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.628599339-04:00",
+    "Latency": 2708945,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.653590216-04:00",
+    "Latency": 2489147,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.678590743-04:00",
+    "Latency": 2850820,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.703590901-04:00",
+    "Latency": 2996552,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.728591339-04:00",
+    "Latency": 2943478,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.7536024-04:00",
+    "Latency": 3215770,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.778590925-04:00",
+    "Latency": 2196310,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.803602855-04:00",
+    "Latency": 2659304,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.828591814-04:00",
+    "Latency": 2847402,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.853590622-04:00",
+    "Latency": 2977256,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.878598764-04:00",
+    "Latency": 2944724,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.903589517-04:00",
+    "Latency": 2395574,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.928589522-04:00",
+    "Latency": 1945289,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.953589569-04:00",
+    "Latency": 1643378,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:02.978588964-04:00",
+    "Latency": 2088928,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.00358932-04:00",
+    "Latency": 1465491,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.028589333-04:00",
+    "Latency": 1825759,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.053590271-04:00",
+    "Latency": 2729844,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.078590438-04:00",
+    "Latency": 2324667,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.103592251-04:00",
+    "Latency": 2409426,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.128601776-04:00",
+    "Latency": 2247193,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.153599191-04:00",
+    "Latency": 3177432,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.17859404-04:00",
+    "Latency": 3369157,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.203590235-04:00",
+    "Latency": 3110479,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.228597416-04:00",
+    "Latency": 3440802,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.253591314-04:00",
+    "Latency": 3390708,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.278605197-04:00",
+    "Latency": 2399458,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.303603552-04:00",
+    "Latency": 3226741,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.328590207-04:00",
+    "Latency": 2335355,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.353591099-04:00",
+    "Latency": 3293570,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.378590667-04:00",
+    "Latency": 3223690,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.403598875-04:00",
+    "Latency": 3328781,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.428594386-04:00",
+    "Latency": 3089644,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.453590522-04:00",
+    "Latency": 3121139,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.478590549-04:00",
+    "Latency": 3394841,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.503590006-04:00",
+    "Latency": 3125218,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.52859164-04:00",
+    "Latency": 3241660,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.553591109-04:00",
+    "Latency": 3047288,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.578600892-04:00",
+    "Latency": 3012766,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.603590648-04:00",
+    "Latency": 2971426,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.628590476-04:00",
+    "Latency": 2850139,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.653590776-04:00",
+    "Latency": 2938273,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.678592716-04:00",
+    "Latency": 3427493,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.703591433-04:00",
+    "Latency": 2830848,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.728591719-04:00",
+    "Latency": 2876282,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.753599338-04:00",
+    "Latency": 3105504,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.778591438-04:00",
+    "Latency": 3363071,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.803598309-04:00",
+    "Latency": 3306187,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.828594588-04:00",
+    "Latency": 3450777,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.853590966-04:00",
+    "Latency": 2608839,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.878603645-04:00",
+    "Latency": 2232483,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.903598892-04:00",
+    "Latency": 2868481,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.92858913-04:00",
+    "Latency": 1257219,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.953591025-04:00",
+    "Latency": 3465713,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:03.978590988-04:00",
+    "Latency": 2362794,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.003590309-04:00",
+    "Latency": 3390818,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.028592376-04:00",
+    "Latency": 2502825,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.053590789-04:00",
+    "Latency": 3373783,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.078591398-04:00",
+    "Latency": 2698630,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.103590326-04:00",
+    "Latency": 2609411,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.128591258-04:00",
+    "Latency": 2665567,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.153590951-04:00",
+    "Latency": 2443500,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.178591337-04:00",
+    "Latency": 2421798,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.203590851-04:00",
+    "Latency": 3264899,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.228590486-04:00",
+    "Latency": 4418050,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.253601417-04:00",
+    "Latency": 2584611,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.278598069-04:00",
+    "Latency": 2409477,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.303598954-04:00",
+    "Latency": 3068349,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.328590721-04:00",
+    "Latency": 3166872,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.353590259-04:00",
+    "Latency": 3083449,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.378590826-04:00",
+    "Latency": 3348609,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.403595296-04:00",
+    "Latency": 3062665,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.428591073-04:00",
+    "Latency": 3125171,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.453589896-04:00",
+    "Latency": 2418199,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.478590862-04:00",
+    "Latency": 2524413,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.503589624-04:00",
+    "Latency": 2038389,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.52859023-04:00",
+    "Latency": 2865989,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.5535911-04:00",
+    "Latency": 3029911,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.578592691-04:00",
+    "Latency": 3327631,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.603591559-04:00",
+    "Latency": 3053325,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.628593147-04:00",
+    "Latency": 3226302,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.653590687-04:00",
+    "Latency": 3287514,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.67859172-04:00",
+    "Latency": 2885936,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.703591227-04:00",
+    "Latency": 3075330,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.728592838-04:00",
+    "Latency": 3327007,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.75359154-04:00",
+    "Latency": 3149790,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.778590688-04:00",
+    "Latency": 2188117,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.803591529-04:00",
+    "Latency": 2350055,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.828591609-04:00",
+    "Latency": 2374887,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.853592926-04:00",
+    "Latency": 2432475,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.878590793-04:00",
+    "Latency": 2529095,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.903589725-04:00",
+    "Latency": 1325348,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.928589405-04:00",
+    "Latency": 921417,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.953589281-04:00",
+    "Latency": 1660340,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:04.978592311-04:00",
+    "Latency": 2609180,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.003590812-04:00",
+    "Latency": 2587824,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.028590866-04:00",
+    "Latency": 2761990,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.053589406-04:00",
+    "Latency": 969834,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.078588599-04:00",
+    "Latency": 837316,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.103589916-04:00",
+    "Latency": 2673094,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.128590795-04:00",
+    "Latency": 2706507,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.153590572-04:00",
+    "Latency": 2831862,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.178590918-04:00",
+    "Latency": 2670113,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.203591267-04:00",
+    "Latency": 2636244,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.228592159-04:00",
+    "Latency": 2486931,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.253592187-04:00",
+    "Latency": 3130821,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.278591266-04:00",
+    "Latency": 3180932,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.30359068-04:00",
+    "Latency": 3211752,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.328590851-04:00",
+    "Latency": 3170554,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.353591278-04:00",
+    "Latency": 3110978,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.378590129-04:00",
+    "Latency": 2993589,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.403591713-04:00",
+    "Latency": 3306452,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.428590815-04:00",
+    "Latency": 3358358,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.453590917-04:00",
+    "Latency": 2458287,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.478590419-04:00",
+    "Latency": 3118833,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.503590317-04:00",
+    "Latency": 3059514,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.528591638-04:00",
+    "Latency": 3018836,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.553590959-04:00",
+    "Latency": 2691684,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.578591298-04:00",
+    "Latency": 2915456,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.60359131-04:00",
+    "Latency": 3122344,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.628591508-04:00",
+    "Latency": 3252728,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.653591342-04:00",
+    "Latency": 2541458,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.678591062-04:00",
+    "Latency": 2380159,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.703591485-04:00",
+    "Latency": 2920411,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.728590346-04:00",
+    "Latency": 2727600,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.753590661-04:00",
+    "Latency": 2865528,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.778590929-04:00",
+    "Latency": 3108794,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.803590653-04:00",
+    "Latency": 2921449,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.828590932-04:00",
+    "Latency": 3078649,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.853590972-04:00",
+    "Latency": 3031071,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.878590903-04:00",
+    "Latency": 2825732,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.903591926-04:00",
+    "Latency": 2594520,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.928589739-04:00",
+    "Latency": 1166627,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.95359119-04:00",
+    "Latency": 3401320,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:05.978590867-04:00",
+    "Latency": 2353372,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.003591434-04:00",
+    "Latency": 2489391,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.02859109-04:00",
+    "Latency": 2555549,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.053591399-04:00",
+    "Latency": 2251581,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.078591175-04:00",
+    "Latency": 2514549,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.103590678-04:00",
+    "Latency": 2393566,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.128591359-04:00",
+    "Latency": 2371529,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.153599102-04:00",
+    "Latency": 3190772,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.1785898-04:00",
+    "Latency": 2936106,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.203590524-04:00",
+    "Latency": 2891705,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.228590294-04:00",
+    "Latency": 2899635,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.253599667-04:00",
+    "Latency": 2864097,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.278589905-04:00",
+    "Latency": 2610546,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.303591814-04:00",
+    "Latency": 3905772,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.328591892-04:00",
+    "Latency": 3076431,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.353591063-04:00",
+    "Latency": 2872723,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.378591043-04:00",
+    "Latency": 2761641,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.403590701-04:00",
+    "Latency": 2876335,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.428599127-04:00",
+    "Latency": 2826586,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.453590332-04:00",
+    "Latency": 3103959,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.478598978-04:00",
+    "Latency": 3043051,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.503599688-04:00",
+    "Latency": 3071905,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.528600143-04:00",
+    "Latency": 3038658,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.553590708-04:00",
+    "Latency": 3285300,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.578601882-04:00",
+    "Latency": 3184445,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.603602812-04:00",
+    "Latency": 2190711,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.628598698-04:00",
+    "Latency": 2981104,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.653599522-04:00",
+    "Latency": 3104362,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.678598756-04:00",
+    "Latency": 3274138,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.703589768-04:00",
+    "Latency": 2022729,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.72859935-04:00",
+    "Latency": 3278104,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.75359635-04:00",
+    "Latency": 3123792,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.778598563-04:00",
+    "Latency": 3165969,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.803590683-04:00",
+    "Latency": 3476810,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.828589854-04:00",
+    "Latency": 3319827,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.853599226-04:00",
+    "Latency": 3381476,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.878590662-04:00",
+    "Latency": 3385697,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.903597289-04:00",
+    "Latency": 3343243,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.928589166-04:00",
+    "Latency": 1990447,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.953599398-04:00",
+    "Latency": 2704552,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:06.97859218-04:00",
+    "Latency": 2722993,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.003598144-04:00",
+    "Latency": 2536885,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.028591371-04:00",
+    "Latency": 2345846,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.053603297-04:00",
+    "Latency": 2125790,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.078596846-04:00",
+    "Latency": 3180451,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.103596747-04:00",
+    "Latency": 2941091,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.128593628-04:00",
+    "Latency": 1240725,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.153592233-04:00",
+    "Latency": 1507346,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.178593983-04:00",
+    "Latency": 3415126,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.20359768-04:00",
+    "Latency": 2571527,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.228598976-04:00",
+    "Latency": 2635332,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.253598193-04:00",
+    "Latency": 2600988,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.278590686-04:00",
+    "Latency": 2381851,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.303600231-04:00",
+    "Latency": 3285026,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.328593997-04:00",
+    "Latency": 3391542,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.353601417-04:00",
+    "Latency": 2336318,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.378595863-04:00",
+    "Latency": 3116879,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.403598386-04:00",
+    "Latency": 2703256,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.428600075-04:00",
+    "Latency": 2578060,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.453595418-04:00",
+    "Latency": 3002991,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.478600227-04:00",
+    "Latency": 3131655,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.503598772-04:00",
+    "Latency": 3180407,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.528594929-04:00",
+    "Latency": 3170550,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.553590167-04:00",
+    "Latency": 3088982,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.578598843-04:00",
+    "Latency": 3020244,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.603599139-04:00",
+    "Latency": 2906977,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.628598215-04:00",
+    "Latency": 2766129,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.653590737-04:00",
+    "Latency": 2895214,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.678589949-04:00",
+    "Latency": 2671371,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.703599054-04:00",
+    "Latency": 2897519,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.728590975-04:00",
+    "Latency": 3006312,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.753602314-04:00",
+    "Latency": 3889897,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.778599034-04:00",
+    "Latency": 2534710,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.803599892-04:00",
+    "Latency": 3107561,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.828590707-04:00",
+    "Latency": 3073832,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.853631208-04:00",
+    "Latency": 2857926,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.878591237-04:00",
+    "Latency": 2898722,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.903590188-04:00",
+    "Latency": 2898264,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.928589067-04:00",
+    "Latency": 1389815,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.953599581-04:00",
+    "Latency": 3192923,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:07.978590829-04:00",
+    "Latency": 3136429,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.003599798-04:00",
+    "Latency": 3140563,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.028591271-04:00",
+    "Latency": 2840556,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.053606745-04:00",
+    "Latency": 2453266,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.078588472-04:00",
+    "Latency": 1701298,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.103589585-04:00",
+    "Latency": 1460480,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.128593399-04:00",
+    "Latency": 2983567,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.153592912-04:00",
+    "Latency": 1625160,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.178590943-04:00",
+    "Latency": 2731648,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.203590271-04:00",
+    "Latency": 2600217,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.22860231-04:00",
+    "Latency": 2336336,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.2535998-04:00",
+    "Latency": 3133180,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.278591008-04:00",
+    "Latency": 3283907,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.303597981-04:00",
+    "Latency": 2880862,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.328589885-04:00",
+    "Latency": 2752599,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.353600186-04:00",
+    "Latency": 2580716,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.378590892-04:00",
+    "Latency": 2462479,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.403599351-04:00",
+    "Latency": 3197163,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.428590681-04:00",
+    "Latency": 2097049,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.453589951-04:00",
+    "Latency": 3906399,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.478590414-04:00",
+    "Latency": 2918810,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.503590997-04:00",
+    "Latency": 2874155,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.528591889-04:00",
+    "Latency": 2626845,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.553598685-04:00",
+    "Latency": 2308279,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.578590893-04:00",
+    "Latency": 2538378,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.603590956-04:00",
+    "Latency": 2499984,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.628600829-04:00",
+    "Latency": 2712398,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.653613701-04:00",
+    "Latency": 2859224,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.678591047-04:00",
+    "Latency": 2989403,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.703590538-04:00",
+    "Latency": 2886622,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.728592598-04:00",
+    "Latency": 3002038,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.753590571-04:00",
+    "Latency": 2736454,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.778591411-04:00",
+    "Latency": 2814701,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.803590959-04:00",
+    "Latency": 2766446,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.828591233-04:00",
+    "Latency": 2935176,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.853590795-04:00",
+    "Latency": 3248411,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.87859244-04:00",
+    "Latency": 3197896,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.903590256-04:00",
+    "Latency": 3164569,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.928589155-04:00",
+    "Latency": 1407900,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.953594183-04:00",
+    "Latency": 2072797,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:08.978591539-04:00",
+    "Latency": 3170480,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.003590198-04:00",
+    "Latency": 2901216,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.028614595-04:00",
+    "Latency": 2856414,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.053599205-04:00",
+    "Latency": 2750405,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.078591355-04:00",
+    "Latency": 2851310,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.103597746-04:00",
+    "Latency": 2424910,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.128598225-04:00",
+    "Latency": 2418317,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.153599425-04:00",
+    "Latency": 3342641,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.178592535-04:00",
+    "Latency": 2454498,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.203589405-04:00",
+    "Latency": 1781546,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.228588864-04:00",
+    "Latency": 585015,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.253591716-04:00",
+    "Latency": 2308139,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.278602703-04:00",
+    "Latency": 2415436,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.303598371-04:00",
+    "Latency": 3083853,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.328590516-04:00",
+    "Latency": 2989156,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.353591568-04:00",
+    "Latency": 2989969,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.378591632-04:00",
+    "Latency": 2839763,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.403593004-04:00",
+    "Latency": 3047401,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.428590953-04:00",
+    "Latency": 2967890,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.453590209-04:00",
+    "Latency": 2526430,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.478590287-04:00",
+    "Latency": 2646361,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.503590426-04:00",
+    "Latency": 2965242,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.528590804-04:00",
+    "Latency": 3309139,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.553590595-04:00",
+    "Latency": 2979576,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.578591128-04:00",
+    "Latency": 2738587,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.60359083-04:00",
+    "Latency": 2464154,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.628591063-04:00",
+    "Latency": 2590186,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.653590982-04:00",
+    "Latency": 2397231,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.678590368-04:00",
+    "Latency": 2366083,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.703590745-04:00",
+    "Latency": 3159545,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.728591535-04:00",
+    "Latency": 2842882,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.753590897-04:00",
+    "Latency": 3146369,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.77859166-04:00",
+    "Latency": 3048082,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.803591417-04:00",
+    "Latency": 2894784,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.828592012-04:00",
+    "Latency": 2913155,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.853590563-04:00",
+    "Latency": 2760892,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.878591515-04:00",
+    "Latency": 2595615,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.90359015-04:00",
+    "Latency": 2359591,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.928590442-04:00",
+    "Latency": 2170155,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.953589913-04:00",
+    "Latency": 2142160,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:09.978590773-04:00",
+    "Latency": 3165396,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.003592521-04:00",
+    "Latency": 3097882,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.028593029-04:00",
+    "Latency": 2671606,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.053591609-04:00",
+    "Latency": 2676079,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.078592838-04:00",
+    "Latency": 2670072,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.103592596-04:00",
+    "Latency": 2613928,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.128591027-04:00",
+    "Latency": 2868711,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.153589994-04:00",
+    "Latency": 2450659,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.1785909-04:00",
+    "Latency": 3434739,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.203590807-04:00",
+    "Latency": 2036968,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.22859058-04:00",
+    "Latency": 3097284,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.253589005-04:00",
+    "Latency": 1667516,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.278590678-04:00",
+    "Latency": 2629672,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.303590929-04:00",
+    "Latency": 2722001,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.328590794-04:00",
+    "Latency": 2825932,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.353590769-04:00",
+    "Latency": 2660268,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.378592574-04:00",
+    "Latency": 3238367,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.403591794-04:00",
+    "Latency": 3109777,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.428591344-04:00",
+    "Latency": 3138004,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.453591205-04:00",
+    "Latency": 2212463,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.478591995-04:00",
+    "Latency": 5310694,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.503591568-04:00",
+    "Latency": 3011637,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.528591007-04:00",
+    "Latency": 3106972,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.553591177-04:00",
+    "Latency": 3128395,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.578590904-04:00",
+    "Latency": 2247191,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.603590835-04:00",
+    "Latency": 3078412,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.628590314-04:00",
+    "Latency": 2659173,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.653590792-04:00",
+    "Latency": 3022962,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.678590863-04:00",
+    "Latency": 3168373,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.703590823-04:00",
+    "Latency": 3222312,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.728590823-04:00",
+    "Latency": 3094939,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.753590602-04:00",
+    "Latency": 2982009,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.77859079-04:00",
+    "Latency": 3956794,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.803590572-04:00",
+    "Latency": 2641568,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.828590938-04:00",
+    "Latency": 2596418,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.853590681-04:00",
+    "Latency": 2452712,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.878591822-04:00",
+    "Latency": 2035542,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.903590604-04:00",
+    "Latency": 3126507,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.928589103-04:00",
+    "Latency": 1618144,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.953590946-04:00",
+    "Latency": 2447708,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:10.978590293-04:00",
+    "Latency": 3050309,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.003590771-04:00",
+    "Latency": 3085069,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.028590842-04:00",
+    "Latency": 2970782,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.053591938-04:00",
+    "Latency": 2938945,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.078590913-04:00",
+    "Latency": 3235235,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.103590012-04:00",
+    "Latency": 2882693,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.128590803-04:00",
+    "Latency": 2565940,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.153591045-04:00",
+    "Latency": 2672497,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.178590894-04:00",
+    "Latency": 2437166,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.203591126-04:00",
+    "Latency": 2387592,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.228590427-04:00",
+    "Latency": 3179760,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.253591058-04:00",
+    "Latency": 2967654,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.278590088-04:00",
+    "Latency": 1283106,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.303588518-04:00",
+    "Latency": 1495460,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.328590001-04:00",
+    "Latency": 2200422,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.35359014-04:00",
+    "Latency": 3018210,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.37859263-04:00",
+    "Latency": 4908462,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.403590488-04:00",
+    "Latency": 2879124,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.428591234-04:00",
+    "Latency": 2619136,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.453591121-04:00",
+    "Latency": 2240933,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.478590475-04:00",
+    "Latency": 3108437,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.503601805-04:00",
+    "Latency": 2887075,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.528590855-04:00",
+    "Latency": 2810669,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.55359903-04:00",
+    "Latency": 2716084,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.578591008-04:00",
+    "Latency": 2717834,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.603590287-04:00",
+    "Latency": 2461392,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.628599504-04:00",
+    "Latency": 1766684,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.653590858-04:00",
+    "Latency": 2555472,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.678603633-04:00",
+    "Latency": 2847252,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.703590809-04:00",
+    "Latency": 2739074,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.728590942-04:00",
+    "Latency": 2741953,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.753592014-04:00",
+    "Latency": 2671539,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.778598777-04:00",
+    "Latency": 2687058,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.803599494-04:00",
+    "Latency": 3044190,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.828590904-04:00",
+    "Latency": 2411600,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.85359149-04:00",
+    "Latency": 2501054,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.878601985-04:00",
+    "Latency": 2525160,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.903598771-04:00",
+    "Latency": 3293617,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.928590763-04:00",
+    "Latency": 2187632,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.953589924-04:00",
+    "Latency": 2007197,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:11.978591803-04:00",
+    "Latency": 2915645,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.003591113-04:00",
+    "Latency": 2908554,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.02860001-04:00",
+    "Latency": 2862264,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.053601187-04:00",
+    "Latency": 3012166,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.078598369-04:00",
+    "Latency": 2691920,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.103601444-04:00",
+    "Latency": 3118489,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.128591095-04:00",
+    "Latency": 3001624,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.153598312-04:00",
+    "Latency": 2831592,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.178591215-04:00",
+    "Latency": 2733231,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.203591292-04:00",
+    "Latency": 2574852,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.228600129-04:00",
+    "Latency": 2690869,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.253597914-04:00",
+    "Latency": 2869789,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.278592176-04:00",
+    "Latency": 2915400,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.30363138-04:00",
+    "Latency": 2927190,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.328599683-04:00",
+    "Latency": 3066548,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.353590888-04:00",
+    "Latency": 3136480,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.378598679-04:00",
+    "Latency": 2721016,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.403590192-04:00",
+    "Latency": 3100864,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.42859141-04:00",
+    "Latency": 3089895,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.453590663-04:00",
+    "Latency": 3274031,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.478590567-04:00",
+    "Latency": 3120317,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.503590913-04:00",
+    "Latency": 2923480,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.528590866-04:00",
+    "Latency": 2671650,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.553590262-04:00",
+    "Latency": 2531264,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.578591774-04:00",
+    "Latency": 2519654,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.603591187-04:00",
+    "Latency": 2285956,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.628590547-04:00",
+    "Latency": 3326743,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.653591011-04:00",
+    "Latency": 3167416,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.678590882-04:00",
+    "Latency": 3084660,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.703598245-04:00",
+    "Latency": 3119945,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.728590868-04:00",
+    "Latency": 3194854,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.753591064-04:00",
+    "Latency": 3101894,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.77859078-04:00",
+    "Latency": 3224964,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.803598265-04:00",
+    "Latency": 2933026,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.828590771-04:00",
+    "Latency": 3066197,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.853591393-04:00",
+    "Latency": 2880141,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.878591538-04:00",
+    "Latency": 3080641,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.903599818-04:00",
+    "Latency": 3254891,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.928588941-04:00",
+    "Latency": 1760538,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.953600238-04:00",
+    "Latency": 3040497,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:12.978599214-04:00",
+    "Latency": 3856424,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.003591768-04:00",
+    "Latency": 3115465,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.028594568-04:00",
+    "Latency": 2084756,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.05358848-04:00",
+    "Latency": 1267354,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.078590849-04:00",
+    "Latency": 3338524,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.103590417-04:00",
+    "Latency": 2115558,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.128591328-04:00",
+    "Latency": 2955546,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.153601321-04:00",
+    "Latency": 3114780,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.178591449-04:00",
+    "Latency": 3199525,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.203591838-04:00",
+    "Latency": 3260525,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.228591032-04:00",
+    "Latency": 3115306,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.253590768-04:00",
+    "Latency": 3314457,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.278599796-04:00",
+    "Latency": 3061830,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.30359063-04:00",
+    "Latency": 3386253,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.328598255-04:00",
+    "Latency": 3136079,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.353598431-04:00",
+    "Latency": 3012815,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.378599161-04:00",
+    "Latency": 3694357,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.403588518-04:00",
+    "Latency": 1016083,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.428598356-04:00",
+    "Latency": 2712915,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.453596644-04:00",
+    "Latency": 1860056,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.478589931-04:00",
+    "Latency": 1975789,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.50359095-04:00",
+    "Latency": 3389749,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.528598052-04:00",
+    "Latency": 2270214,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.553592454-04:00",
+    "Latency": 3314119,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.578604275-04:00",
+    "Latency": 2406418,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.603591636-04:00",
+    "Latency": 3143694,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.628591745-04:00",
+    "Latency": 3398597,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.653598761-04:00",
+    "Latency": 3071800,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.678594401-04:00",
+    "Latency": 3301642,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.703599109-04:00",
+    "Latency": 3307663,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.728596741-04:00",
+    "Latency": 3273844,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.753591639-04:00",
+    "Latency": 3242324,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.778601812-04:00",
+    "Latency": 2293699,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.803590939-04:00",
+    "Latency": 2439460,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.828597626-04:00",
+    "Latency": 2309973,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.853601491-04:00",
+    "Latency": 2937806,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.878591069-04:00",
+    "Latency": 2971900,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.903591893-04:00",
+    "Latency": 3028932,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.928589613-04:00",
+    "Latency": 1836696,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.953590171-04:00",
+    "Latency": 2723530,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:13.978590657-04:00",
+    "Latency": 2630683,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.003591186-04:00",
+    "Latency": 2259273,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.028591193-04:00",
+    "Latency": 2383908,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.053590851-04:00",
+    "Latency": 2501551,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.078591852-04:00",
+    "Latency": 3300931,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.103599078-04:00",
+    "Latency": 3257214,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.128591346-04:00",
+    "Latency": 3076781,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.153601324-04:00",
+    "Latency": 2943585,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.17858988-04:00",
+    "Latency": 2710371,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.203590644-04:00",
+    "Latency": 2600774,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.228591436-04:00",
+    "Latency": 2624432,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.253591638-04:00",
+    "Latency": 2464217,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.278592034-04:00",
+    "Latency": 2306597,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.303591119-04:00",
+    "Latency": 3203249,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.328590911-04:00",
+    "Latency": 2349769,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.353590992-04:00",
+    "Latency": 3130701,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.37859093-04:00",
+    "Latency": 3293763,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.403598839-04:00",
+    "Latency": 3085468,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.428591101-04:00",
+    "Latency": 3050463,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.45359158-04:00",
+    "Latency": 3362655,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.478590626-04:00",
+    "Latency": 3373503,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.503591204-04:00",
+    "Latency": 3192388,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.528590904-04:00",
+    "Latency": 3237379,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.553599793-04:00",
+    "Latency": 3127011,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.57859098-04:00",
+    "Latency": 3191044,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.603591729-04:00",
+    "Latency": 3058473,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.628591031-04:00",
+    "Latency": 3426898,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.653602813-04:00",
+    "Latency": 2402136,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.678590305-04:00",
+    "Latency": 2140154,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.703599638-04:00",
+    "Latency": 3045156,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.728590823-04:00",
+    "Latency": 3051608,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.753591043-04:00",
+    "Latency": 3086849,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.778599015-04:00",
+    "Latency": 2921486,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.803590759-04:00",
+    "Latency": 3103714,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.828602822-04:00",
+    "Latency": 3164460,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.8535902-04:00",
+    "Latency": 1979999,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.878601494-04:00",
+    "Latency": 3008936,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.90359073-04:00",
+    "Latency": 2950098,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.928591918-04:00",
+    "Latency": 1364723,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.95360108-04:00",
+    "Latency": 3152031,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:14.978590762-04:00",
+    "Latency": 2996518,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.003590755-04:00",
+    "Latency": 2962745,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.028591229-04:00",
+    "Latency": 2407862,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.053590226-04:00",
+    "Latency": 3175527,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.078602812-04:00",
+    "Latency": 2180096,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.103596008-04:00",
+    "Latency": 2886074,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.128591051-04:00",
+    "Latency": 2688827,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.153602175-04:00",
+    "Latency": 2299829,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.178590709-04:00",
+    "Latency": 3342677,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.203590534-04:00",
+    "Latency": 2920551,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.228590786-04:00",
+    "Latency": 3824692,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.253589842-04:00",
+    "Latency": 2598004,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.278590158-04:00",
+    "Latency": 2648800,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.303590788-04:00",
+    "Latency": 3160800,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.328598725-04:00",
+    "Latency": 2916894,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.35360013-04:00",
+    "Latency": 3067702,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.378591208-04:00",
+    "Latency": 2938119,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.403590747-04:00",
+    "Latency": 2685685,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.428590714-04:00",
+    "Latency": 2474099,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.453590671-04:00",
+    "Latency": 3185459,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.478590387-04:00",
+    "Latency": 1855779,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.503590746-04:00",
+    "Latency": 1002456,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.52858844-04:00",
+    "Latency": 1583817,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.553591089-04:00",
+    "Latency": 2391441,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.578597247-04:00",
+    "Latency": 2361994,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.603602012-04:00",
+    "Latency": 2586154,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.628591155-04:00",
+    "Latency": 2633182,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.65359712-04:00",
+    "Latency": 2430293,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.678592264-04:00",
+    "Latency": 2366064,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.703590476-04:00",
+    "Latency": 3379145,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.728601133-04:00",
+    "Latency": 2545128,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.753590801-04:00",
+    "Latency": 3248226,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.778590577-04:00",
+    "Latency": 3286678,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.80359811-04:00",
+    "Latency": 2983521,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.828591568-04:00",
+    "Latency": 2733696,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.853591002-04:00",
+    "Latency": 2947233,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.878590524-04:00",
+    "Latency": 2905329,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.903598572-04:00",
+    "Latency": 3139398,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.928589822-04:00",
+    "Latency": 1860245,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.953598395-04:00",
+    "Latency": 2451267,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:15.978604502-04:00",
+    "Latency": 2366876,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.003597673-04:00",
+    "Latency": 3303967,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.028590748-04:00",
+    "Latency": 3343842,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.053590939-04:00",
+    "Latency": 3172445,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.078590372-04:00",
+    "Latency": 3139355,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.103590972-04:00",
+    "Latency": 3104393,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.128590871-04:00",
+    "Latency": 2760005,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.153590357-04:00",
+    "Latency": 2568283,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.178590816-04:00",
+    "Latency": 2083621,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.203590258-04:00",
+    "Latency": 3211858,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.228590801-04:00",
+    "Latency": 3173994,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.253590084-04:00",
+    "Latency": 2751158,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.278590738-04:00",
+    "Latency": 2851718,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.303598316-04:00",
+    "Latency": 2167117,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.328590704-04:00",
+    "Latency": 3217173,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.353598905-04:00",
+    "Latency": 3296762,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.378590656-04:00",
+    "Latency": 3145988,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.403598129-04:00",
+    "Latency": 2745817,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.428590483-04:00",
+    "Latency": 2823304,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.453600239-04:00",
+    "Latency": 2702324,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.478600142-04:00",
+    "Latency": 2727332,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.503590863-04:00",
+    "Latency": 3019512,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.52859885-04:00",
+    "Latency": 2906717,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.553598496-04:00",
+    "Latency": 2879339,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.57859083-04:00",
+    "Latency": 3265499,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.603598876-04:00",
+    "Latency": 2991890,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.628590913-04:00",
+    "Latency": 3247471,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.653599605-04:00",
+    "Latency": 3357829,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.678590952-04:00",
+    "Latency": 2260950,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.703590823-04:00",
+    "Latency": 3364416,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.728599814-04:00",
+    "Latency": 2304922,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.753599077-04:00",
+    "Latency": 3028462,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.778590983-04:00",
+    "Latency": 3008214,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.8035989-04:00",
+    "Latency": 3131733,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.828590872-04:00",
+    "Latency": 3172470,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.853599001-04:00",
+    "Latency": 3031538,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.878590745-04:00",
+    "Latency": 3363307,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.903596956-04:00",
+    "Latency": 3112246,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.928589236-04:00",
+    "Latency": 1727447,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.953595209-04:00",
+    "Latency": 1633477,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:16.978598922-04:00",
+    "Latency": 2495511,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.003590633-04:00",
+    "Latency": 2685598,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.028589842-04:00",
+    "Latency": 2512058,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.053598535-04:00",
+    "Latency": 3265233,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.078601642-04:00",
+    "Latency": 3110134,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.10359748-04:00",
+    "Latency": 3238310,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.12859517-04:00",
+    "Latency": 3395113,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.153596013-04:00",
+    "Latency": 3254585,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.17859073-04:00",
+    "Latency": 2616368,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.203590954-04:00",
+    "Latency": 2721401,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.228598476-04:00",
+    "Latency": 2533473,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.253597248-04:00",
+    "Latency": 3036258,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.278593165-04:00",
+    "Latency": 1626838,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.303588592-04:00",
+    "Latency": 961643,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.328600054-04:00",
+    "Latency": 2638755,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.353598663-04:00",
+    "Latency": 2209922,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.378598755-04:00",
+    "Latency": 2978941,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.403590637-04:00",
+    "Latency": 3080449,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.428599756-04:00",
+    "Latency": 3022979,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.45359863-04:00",
+    "Latency": 2693770,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.478590271-04:00",
+    "Latency": 3674973,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.503591111-04:00",
+    "Latency": 2726753,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.528591323-04:00",
+    "Latency": 2661910,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.55358947-04:00",
+    "Latency": 1038109,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.578588481-04:00",
+    "Latency": 1001433,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.603590672-04:00",
+    "Latency": 2402470,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.628590109-04:00",
+    "Latency": 2958694,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.65359356-04:00",
+    "Latency": 2682182,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.678591032-04:00",
+    "Latency": 2845322,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.703590308-04:00",
+    "Latency": 2676896,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.728591487-04:00",
+    "Latency": 2707091,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.753590547-04:00",
+    "Latency": 2538814,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.778591218-04:00",
+    "Latency": 3011960,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.803591734-04:00",
+    "Latency": 2879301,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.828591115-04:00",
+    "Latency": 2911913,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.85359345-04:00",
+    "Latency": 2821604,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.878590372-04:00",
+    "Latency": 2572515,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.903590806-04:00",
+    "Latency": 3144289,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.928589087-04:00",
+    "Latency": 1499211,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.953590806-04:00",
+    "Latency": 2327187,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:17.97859105-04:00",
+    "Latency": 3260488,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.003590495-04:00",
+    "Latency": 3014126,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.028591598-04:00",
+    "Latency": 2892742,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.053590299-04:00",
+    "Latency": 2577174,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.078591223-04:00",
+    "Latency": 2811900,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.103591623-04:00",
+    "Latency": 2628282,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.128591905-04:00",
+    "Latency": 2358034,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.153592036-04:00",
+    "Latency": 3104097,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.178591228-04:00",
+    "Latency": 2939826,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.20359091-04:00",
+    "Latency": 3331888,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.228591209-04:00",
+    "Latency": 2515762,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.253591265-04:00",
+    "Latency": 2634266,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.278592497-04:00",
+    "Latency": 2717026,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.303591072-04:00",
+    "Latency": 2668301,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.328591663-04:00",
+    "Latency": 2992696,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.353590194-04:00",
+    "Latency": 2857610,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.378591263-04:00",
+    "Latency": 2936384,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.403590717-04:00",
+    "Latency": 2562040,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.428591426-04:00",
+    "Latency": 2533866,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.453591543-04:00",
+    "Latency": 2495575,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.478600357-04:00",
+    "Latency": 2766075,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.503598632-04:00",
+    "Latency": 2651321,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.528599394-04:00",
+    "Latency": 2691657,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.553599188-04:00",
+    "Latency": 2874612,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.578599779-04:00",
+    "Latency": 3032108,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.603598678-04:00",
+    "Latency": 3020430,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.628590737-04:00",
+    "Latency": 3141940,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.653599651-04:00",
+    "Latency": 2720633,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.678599512-04:00",
+    "Latency": 2577952,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.703590926-04:00",
+    "Latency": 2756507,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.728590821-04:00",
+    "Latency": 2638539,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.7535907-04:00",
+    "Latency": 3029222,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.778598123-04:00",
+    "Latency": 2839709,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.803590932-04:00",
+    "Latency": 3347778,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.828602292-04:00",
+    "Latency": 2436968,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.853603397-04:00",
+    "Latency": 2296832,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.878590822-04:00",
+    "Latency": 2305347,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.903590653-04:00",
+    "Latency": 3201332,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.92859359-04:00",
+    "Latency": 1869293,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.953599262-04:00",
+    "Latency": 2685384,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:18.978599049-04:00",
+    "Latency": 2856889,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.003598976-04:00",
+    "Latency": 3047988,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.028600258-04:00",
+    "Latency": 2973176,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.053592028-04:00",
+    "Latency": 3379428,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.078598493-04:00",
+    "Latency": 3091719,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.103599356-04:00",
+    "Latency": 3134803,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.128598675-04:00",
+    "Latency": 3049239,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.153590168-04:00",
+    "Latency": 2823568,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.178599201-04:00",
+    "Latency": 2818680,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.203599084-04:00",
+    "Latency": 2820536,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.22859952-04:00",
+    "Latency": 3085171,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.253590887-04:00",
+    "Latency": 2406302,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.278599796-04:00",
+    "Latency": 3300753,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.303600309-04:00",
+    "Latency": 3353650,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.328598963-04:00",
+    "Latency": 2266333,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.353599563-04:00",
+    "Latency": 3253466,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.378595357-04:00",
+    "Latency": 3390071,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.403598476-04:00",
+    "Latency": 2558252,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.428606471-04:00",
+    "Latency": 2396856,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.45359882-04:00",
+    "Latency": 3215198,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.478590931-04:00",
+    "Latency": 2340105,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.503591296-04:00",
+    "Latency": 3464022,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.528590861-04:00",
+    "Latency": 2827400,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.553592087-04:00",
+    "Latency": 2715497,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.57859071-04:00",
+    "Latency": 2865233,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.603591472-04:00",
+    "Latency": 2522722,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.628589625-04:00",
+    "Latency": 1308934,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.653588798-04:00",
+    "Latency": 1513983,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.678588636-04:00",
+    "Latency": 1722270,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.703589957-04:00",
+    "Latency": 1832339,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.728590716-04:00",
+    "Latency": 2756183,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.75359853-04:00",
+    "Latency": 2549858,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.778591172-04:00",
+    "Latency": 3545702,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.803590689-04:00",
+    "Latency": 2987090,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.828599001-04:00",
+    "Latency": 3007826,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.853590976-04:00",
+    "Latency": 3038497,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.878599546-04:00",
+    "Latency": 2599289,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.903598885-04:00",
+    "Latency": 2415373,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.928588648-04:00",
+    "Latency": 1922923,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.953589933-04:00",
+    "Latency": 3195941,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:19.978588952-04:00",
+    "Latency": 1973529,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.003588291-04:00",
+    "Latency": 1053580,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.028599746-04:00",
+    "Latency": 2760937,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.053590484-04:00",
+    "Latency": 2678627,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.07859991-04:00",
+    "Latency": 2699899,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.103599534-04:00",
+    "Latency": 2843195,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.128591533-04:00",
+    "Latency": 3042388,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.153590744-04:00",
+    "Latency": 3079765,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.178591669-04:00",
+    "Latency": 2761162,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.20359867-04:00",
+    "Latency": 2746454,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.228599856-04:00",
+    "Latency": 2856531,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.253589364-04:00",
+    "Latency": 1542026,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.278590546-04:00",
+    "Latency": 3442429,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.303590745-04:00",
+    "Latency": 3226272,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.328591518-04:00",
+    "Latency": 2821494,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.353597322-04:00",
+    "Latency": 2522130,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.378591103-04:00",
+    "Latency": 2748363,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.403599112-04:00",
+    "Latency": 2729862,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.428591869-04:00",
+    "Latency": 2736521,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.453590943-04:00",
+    "Latency": 2733501,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.478589949-04:00",
+    "Latency": 2922363,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.503589981-04:00",
+    "Latency": 2090331,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.528597858-04:00",
+    "Latency": 2892424,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.553590989-04:00",
+    "Latency": 3336841,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.578590426-04:00",
+    "Latency": 3239749,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.60359903-04:00",
+    "Latency": 3100950,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.628591072-04:00",
+    "Latency": 2993809,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.653590627-04:00",
+    "Latency": 2521522,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.678590796-04:00",
+    "Latency": 2838475,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.70359883-04:00",
+    "Latency": 2833381,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.728591405-04:00",
+    "Latency": 2821499,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.753599207-04:00",
+    "Latency": 2599633,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.778590178-04:00",
+    "Latency": 2843687,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.803590692-04:00",
+    "Latency": 3063215,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.828602188-04:00",
+    "Latency": 3003130,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.853591696-04:00",
+    "Latency": 3313378,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.878602506-04:00",
+    "Latency": 2231057,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.903597976-04:00",
+    "Latency": 3244142,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.928591148-04:00",
+    "Latency": 2070086,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.953590261-04:00",
+    "Latency": 2109585,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:20.978598432-04:00",
+    "Latency": 3315332,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.003592362-04:00",
+    "Latency": 3160080,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.028599874-04:00",
+    "Latency": 3222222,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.053590767-04:00",
+    "Latency": 2213944,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.078590851-04:00",
+    "Latency": 3228661,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.103591278-04:00",
+    "Latency": 3040304,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.128590821-04:00",
+    "Latency": 2808371,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.15359238-04:00",
+    "Latency": 2617140,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.178592644-04:00",
+    "Latency": 2575125,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.203590277-04:00",
+    "Latency": 1574624,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.228590888-04:00",
+    "Latency": 2138577,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.253589379-04:00",
+    "Latency": 2144421,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.278590981-04:00",
+    "Latency": 2869598,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.303598761-04:00",
+    "Latency": 2538171,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.328592017-04:00",
+    "Latency": 2644409,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.353600022-04:00",
+    "Latency": 2659074,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.378592138-04:00",
+    "Latency": 2627226,
+    "StatusCode": 200,
+    "Err": null
+  },
+  {
+    "ScheduledAt": "2026-09-11T09:43:21.403601541-04:00",
+    "Latency": 2479467,
+    "StatusCode": 200,
+    "Err": null
+  }
+]

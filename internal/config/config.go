@@ -18,6 +18,7 @@ type Config struct {
 	Workers  int    `json:"workers"`
 	Duration int    `json:"duration"`
 	Timeout  int    `json:"timeout"`
+	OutFile  string `json:"out"`
 }
 
 func ParseConfig(file string, cfg *worker.Config) error {
@@ -76,6 +77,10 @@ func ParseConfig(file string, cfg *worker.Config) error {
 		cfg.Timeout = time.Duration(c.Timeout) * time.Second
 	} else {
 		cfg.Timeout = 5 * time.Second
+	}
+
+	if c.OutFile != "" {
+		cfg.OutFile = c.OutFile
 	}
 
 	return nil

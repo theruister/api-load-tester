@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"load-tester/internal/config"
+	"load-tester/internal/report"
 	"load-tester/internal/stats"
 	"load-tester/internal/view"
 	"load-tester/internal/worker"
@@ -26,6 +27,7 @@ func main() {
 		duration = flag.Int("duration", 10, "duration of the test")
 		timeout  = flag.Int("timeout", 5, "per-request timeout in seconds")
 		file     = flag.String("file", "", "config file")
+		out      = flag.String("out", "", "output file")
 	)
 
 	flag.Parse()
@@ -41,6 +43,7 @@ func main() {
 		Concurrency: 10,
 		Duration:    10,
 		Timeout:     5,
+		OutFile:     "",
 	}
 
 	seen := make(map[string]bool)
@@ -77,6 +80,10 @@ func main() {
 		cfg.Timeout = time.Duration(*timeout) * time.Second
 	}
 
+	if seen["out"] {
+		cfg.OutFile = *out
+	}
+
 	// Check we have at least a URL defined everything else should have a defaultif required
 	if cfg.URL == "" {
 		flag.Usage()
@@ -99,5 +106,9 @@ func main() {
 	p := tea.NewProgram(view.InitialModel(recorder, start, cfg.Duration))
 	if _, err := p.Run(); err != nil {
 		fmt.Fprintf(os.Stderr, "err: %v\n", err)
+	}
+
+	if cfg.OutFile != "" {
+		report.PrintFile(cfg.OutFile, recorder)
 	}
 }

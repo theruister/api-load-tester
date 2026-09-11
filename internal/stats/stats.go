@@ -28,6 +28,10 @@ func (r *Recorder) Record(res Result) {
 	r.results = append(r.results, res)
 }
 
+func (r *Recorder) GetResults() []Result {
+	return r.results
+}
+
 // Summary is a point-in-time snapshot of aggregate stats
 type Summary struct {
 	Total      int
